@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.1.2",
-  "latestVersionCode": 4,
+  "latestVersion": "0.1.3",
+  "latestVersionCode": 5,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-20",
-  "changelog": "إصلاح عاجل: التطبيق كان بيقفل لما الفيديو يكبر أو الشاشة تلف. دلوقتي الترجمة بتكمل عادي مع تغيير وضع الشاشة.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.1.2/gamelingo-0.1.2.apk",
-  "sha256": "4d83630400b56cdace8159c36b9a48df1afbf6a1d6fe8d76db478eda21fe0f88",
+  "changelog": "جديد: اكتشاف الترجمة تلقائيًا. التطبيق دلوقتي بيميز سطر الترجمة الحقيقي وبيتجاهل الشعارات الثابتة في الزوايا زي علامات القنوات.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.1.3/gamelingo-0.1.3.apk",
+  "sha256": "5c974c9664a08ea05748fa42b9fffeadd35a99c84386ec6f765b2b2d5f621e71",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 107854688
+  "fileSizeBytes": 107872048
 }
