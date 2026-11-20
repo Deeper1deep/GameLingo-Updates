@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.0.0",
-  "latestVersionCode": 0,
+  "latestVersion": "0.1.0",
+  "latestVersionCode": 2,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-20",
-  "changelog": "لا توجد إصدارات منشورة بعد. أول إصدار موقع هيظهر هنا قريبًا.",
-  "downloadUrl": "",
-  "sha256": "",
-  "mandatoryUpdate": false
+  "changelog": "أول إصدار من GameLingo Mobile: ترجمة فورية فوق الألعاب، التقاط الشاشة و OCR على الجهاز، ترجمة محلية مجانية أو Gemini بمفتاحك الخاص بعد موافقة صريحة، وتحديثات داخل التطبيق.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.1.0/gamelingo-0.1.0.apk",
+  "sha256": "4d083db6990c72935c6cf4981f1d9510e72eceb1d1525adafc60d38c6b0573ef",
+  "mandatoryUpdate": false,
+  "fileSizeBytes": 107854188
 }
