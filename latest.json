@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.2.2",
-  "latestVersionCode": 9,
+  "latestVersion": "0.3.0",
+  "latestVersionCode": 10,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-20",
-  "changelog": "إصلاحات استقرار: ترتيب بدء التقاط الشاشة الصحيح لأندرويد 14 وما فوق، كاشف تغيير شاشة يغطي الصورة كلها، سبب واضح لتوقف الجلسة، إعادة محاولة ذكية للترجمة الأونلاين، وتنبيه عند فقدان إذن النافذة العائمة",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.2.2/gamelingo-0.2.2.apk",
-  "sha256": "a2e737cd67d1be1b4a8244e1f97456bd4c5fe1f9c9c895d16b616f4e5146f81c",
+  "changelog": "الإصدار 0.3.0: ترجمة أمينة وأسرع، وخط ترجمة مستمر لا يتوقف - ترجمة كاملة وأمينة بلا حذف أو تنعيم لأي كلمة - سرعة أعلى في عرض الترجمة وسجلات توقيت لكل مرحلة - إصلاح توقف الترجمة بعد فترة: خط معالجة مستمر بطابور محدود ومراقب ذاتي يسترد الخدمة تلقائيا - إصلاح توقف الالتقاط والترجمة والتراكب عند ملء الشاشة أو تدويرها - احترام مهلة Gemini عند الضغط على الحصة والعودة التلقائية بعد انقطاع النت - رسالة واضحة عند انتهاء إذن التقاط الشاشة",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.3.0/gamelingo-0.3.0.apk",
+  "sha256": "77b880b3895f3a424c0e0d6e6357f385c48e0241a2839326348ec1829c3be1b3",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 49964332
+  "fileSizeBytes": 49981292
 }
