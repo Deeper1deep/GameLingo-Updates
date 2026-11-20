@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.1.3",
-  "latestVersionCode": 5,
+  "latestVersion": "0.1.4",
+  "latestVersionCode": 6,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-20",
-  "changelog": "جديد: اكتشاف الترجمة تلقائيًا. التطبيق دلوقتي بيميز سطر الترجمة الحقيقي وبيتجاهل الشعارات الثابتة في الزوايا زي علامات القنوات.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.1.3/gamelingo-0.1.3.apk",
-  "sha256": "5c974c9664a08ea05748fa42b9fffeadd35a99c84386ec6f765b2b2d5f621e71",
+  "changelog": "إصلاحات مهمة: ترجمة أسرع بشكل واضح، الترجمة بتغطي السطرين مع بعض بدل ما سطر يضيع، وإصلاح القفلة اللي كانت بتحصل عند الخروج من التطبيق.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.1.4/gamelingo-0.1.4.apk",
+  "sha256": "6e0f421a7a3006d48c136f334b5e099dcabae2a0510f96019bb1354949c1e8cc",
   "mandatoryUpdate": false,
   "fileSizeBytes": 107872048
 }
