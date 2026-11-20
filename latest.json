@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.1.4",
-  "latestVersionCode": 6,
+  "latestVersion": "0.2.0",
+  "latestVersionCode": 7,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-20",
-  "changelog": "إصلاحات مهمة: ترجمة أسرع بشكل واضح، الترجمة بتغطي السطرين مع بعض بدل ما سطر يضيع، وإصلاح القفلة اللي كانت بتحصل عند الخروج من التطبيق.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.1.4/gamelingo-0.1.4.apk",
-  "sha256": "6e0f421a7a3006d48c136f334b5e099dcabae2a0510f96019bb1354949c1e8cc",
+  "changelog": "تحديث شامل للاستقرار والأمان: - إصلاحات في قراءة الشاشة والنافذة العائمة: التحقق من صلاحية الظهور فوق التطبيقات قبل البدء، السحب في الاتجاهين، والترجمة العربية تظهر الأول - وضوح أكبر: لو الوضع أونلاين مش جاهز هتظهرلك ملاحظة فورا بدل ترجمة محلية صامتة - تشفير مفتاح API على الجهاز - تحديثات التطبيق أكثر أمانا: فحص رابط التنزيل والبصمة قبل التثبيت وتنزيل مؤقت آمن - حجم التطبيق أصبح أصغر بحوالي النصف - تحسينات في التخزين المؤقت وسرعة الاستجابة",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.2.0/gamelingo-0.2.0.apk",
+  "sha256": "917ab8ad6b856201a6e43cf39d07292cec6d7712f27d2e593f4a2c3be2a62cea",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 107872048
+  "fileSizeBytes": 49960548
 }
