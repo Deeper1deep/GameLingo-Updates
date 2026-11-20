@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.1.0",
-  "latestVersionCode": 2,
+  "latestVersion": "0.1.1",
+  "latestVersionCode": 3,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-20",
-  "changelog": "أول إصدار من GameLingo Mobile: ترجمة فورية فوق الألعاب، التقاط الشاشة و OCR على الجهاز، ترجمة محلية مجانية أو Gemini بمفتاحك الخاص بعد موافقة صريحة، وتحديثات داخل التطبيق.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.1.0/gamelingo-0.1.0.apk",
-  "sha256": "4d083db6990c72935c6cf4981f1d9510e72eceb1d1525adafc60d38c6b0573ef",
+  "changelog": "إصلاح مهم: القراءة دلوقتي بتتظبط تلقائي لما الشاشة تلف (وضع أفقي/رأسي)، ولو حصلت مشكلة متكررة بيظهر تنبيه واضح بدل الانتظار الصامت.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.1.1/gamelingo-0.1.1.apk",
+  "sha256": "f33a8d5961877774aa1ad588116401aa74cb6c0a6b91dda8ffea5d2f18eca965",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 107854188
+  "fileSizeBytes": 107854688
 }
