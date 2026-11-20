@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.2.1",
-  "latestVersionCode": 8,
+  "latestVersion": "0.2.2",
+  "latestVersionCode": 9,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-20",
-  "changelog": "إصلاح عاجل: حل مشكلة تعليق التطبيق عند الضغط على زر الترجمة وبدء الجلسة",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.2.1/gamelingo-0.2.1.apk",
-  "sha256": "ae52b0c6880309aaa790ae4c7b30ef79e3891b74c9edf68bfcc926e4db59e749",
+  "changelog": "إصلاحات استقرار: ترتيب بدء التقاط الشاشة الصحيح لأندرويد 14 وما فوق، كاشف تغيير شاشة يغطي الصورة كلها، سبب واضح لتوقف الجلسة، إعادة محاولة ذكية للترجمة الأونلاين، وتنبيه عند فقدان إذن النافذة العائمة",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.2.2/gamelingo-0.2.2.apk",
+  "sha256": "a2e737cd67d1be1b4a8244e1f97456bd4c5fe1f9c9c895d16b616f4e5146f81c",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 49960548
+  "fileSizeBytes": 49964332
 }
