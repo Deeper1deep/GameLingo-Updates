@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.5.1",
-  "latestVersionCode": 15,
-  "minimumSupportedVersionCode": 15,
+  "latestVersion": "0.5.2",
+  "latestVersionCode": 16,
+  "minimumSupportedVersionCode": 16,
   "releaseDate": "2026-11-21",
-  "changelog": "إصلاح: زرار الإيقاف في الشريط العائم بقى بضغطة مطوّلة بدل اللمسة الواحدة، وصفحة التشخيص بتسجّل سبب آخر إيقاف.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.5.1/gamelingo-0.5.1.apk",
-  "sha256": "9b2c958647dd10140a65f1af2443149cd3ec3645378784a6ab39dada86ecdae1",
+  "changelog": "إصلاح: لو النظام سحب إذن مشاركة الشاشة وانت بتلعب، هيوصلك إشعار وترجع الترجمة بضغطتين، وبانر استئناف في الصفحة الرئيسية.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.5.2/gamelingo-0.5.2.apk",
+  "sha256": "4572c26012ba1e97e31f1170d71a754b0d3e9c61a847a19d9ca204b81bea78bf",
   "mandatoryUpdate": true,
-  "fileSizeBytes": 81493304
+  "fileSizeBytes": 81496496
 }
