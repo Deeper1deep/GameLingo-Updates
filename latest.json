@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.4.0",
-  "latestVersionCode": 11,
-  "minimumSupportedVersionCode": 1,
+  "latestVersion": "0.4.1",
+  "latestVersionCode": 12,
+  "minimumSupportedVersionCode": 12,
   "releaseDate": "2026-11-21",
-  "changelog": "محرك ترجمة محلي جديد بترجمة إنجليزي لمصري من غير نت نهائيا. حمل نموذج TranslateGemma (حوالي 1.9 جيجا) من الإعدادات لما تكون على Wi-Fi كويس، أو نموذج Marian الخفيف (حوالي 113 ميجا). قسم جديد في الإعدادات لإدارة النماذج واختبار الترجمة والسرعة.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.4.0/gamelingo-0.4.0.apk",
-  "sha256": "f38d0d117a00a507fb8b500dff6d2353fd4e484ea486639eb3b138e582005875",
-  "mandatoryUpdate": false,
-  "fileSizeBytes": 81091393
+  "changelog": "إصلاح عطل كان بيقفل التطبيق لما تجرب الترجمة المحلية على بعض الموبايلات. دلوقتي لو المترجم المحلي فشل لأي سبب، التطبيق بيتحول تلقائيًا لمترجم بديل من غير ما يقفل، ولو حصلت مشكلة هيظهرلك سببها بالعربي.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.4.1/gamelingo-0.4.1.apk",
+  "sha256": "56638073a18a16dca905ff21270d1d4a14bd914cff90cd0973083ec00a4155f5",
+  "mandatoryUpdate": true,
+  "fileSizeBytes": 81173317
 }
