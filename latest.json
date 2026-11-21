@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.4.2",
-  "latestVersionCode": 13,
-  "minimumSupportedVersionCode": 12,
+  "latestVersion": "0.5.0",
+  "latestVersionCode": 14,
+  "minimumSupportedVersionCode": 14,
   "releaseDate": "2026-11-21",
-  "changelog": "تصميم جديد كليًا للتطبيق: شاشات أحلى وأوضح، أيقونة جديدة، شريط تنقل سفلي، مركز تحديثات، وإحصائيات الجلسة لحظة بلحظة. الترجمة نفسها زي ما هي.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.4.2/gamelingo-0.4.2.apk",
-  "sha256": "f17433919c43581941327a23fe562d18e06789811612f0a2ec814c7df55c76d3",
-  "mandatoryUpdate": false,
-  "fileSizeBytes": 81436401
+  "changelog": "إصلاح شامل للاستقرار (مراجعة 17 مرحلة): تصليح محرك الترجمة المحلي Marian اللي كان بايظ في كل النسخ السابقة، وتحسينات في الذاكرة والتقاط الشاشة ونظام التحديثات. أنماط ترجمة عربية: فصحى معاصرة أو عامية مصرية، مع قاموس ألعاب احترافي (فصائل وأسلحة ومصطلحات عسكرية) وإمكانية إضافة مصطلحاتك الخاصة. محرك فهم أعمق للإنجليزية: تعبيرات اصطلاحية وعامية وسياق الحوار، مع فحص جودة بعد الترجمة بدون أي تأخير إضافي.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.5.0/gamelingo-0.5.0.apk",
+  "sha256": "eaa0fd7f4a5dbcdf98878b59a23155574e417d8711e6281d2af0581cb1c8b31d",
+  "mandatoryUpdate": true,
+  "fileSizeBytes": 81489456
 }
