@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.3.0",
-  "latestVersionCode": 10,
+  "latestVersion": "0.4.0",
+  "latestVersionCode": 11,
   "minimumSupportedVersionCode": 1,
-  "releaseDate": "2026-11-20",
-  "changelog": "الإصدار 0.3.0: ترجمة أمينة وأسرع، وخط ترجمة مستمر لا يتوقف - ترجمة كاملة وأمينة بلا حذف أو تنعيم لأي كلمة - سرعة أعلى في عرض الترجمة وسجلات توقيت لكل مرحلة - إصلاح توقف الترجمة بعد فترة: خط معالجة مستمر بطابور محدود ومراقب ذاتي يسترد الخدمة تلقائيا - إصلاح توقف الالتقاط والترجمة والتراكب عند ملء الشاشة أو تدويرها - احترام مهلة Gemini عند الضغط على الحصة والعودة التلقائية بعد انقطاع النت - رسالة واضحة عند انتهاء إذن التقاط الشاشة",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.3.0/gamelingo-0.3.0.apk",
-  "sha256": "77b880b3895f3a424c0e0d6e6357f385c48e0241a2839326348ec1829c3be1b3",
+  "releaseDate": "2026-11-21",
+  "changelog": "محرك ترجمة محلي جديد بترجمة إنجليزي لمصري من غير نت نهائيا. حمل نموذج TranslateGemma (حوالي 1.9 جيجا) من الإعدادات لما تكون على Wi-Fi كويس، أو نموذج Marian الخفيف (حوالي 113 ميجا). قسم جديد في الإعدادات لإدارة النماذج واختبار الترجمة والسرعة.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.4.0/gamelingo-0.4.0.apk",
+  "sha256": "f38d0d117a00a507fb8b500dff6d2353fd4e484ea486639eb3b138e582005875",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 49981292
+  "fileSizeBytes": 81091393
 }
