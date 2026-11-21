@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.5.0",
-  "latestVersionCode": 14,
-  "minimumSupportedVersionCode": 14,
+  "latestVersion": "0.5.1",
+  "latestVersionCode": 15,
+  "minimumSupportedVersionCode": 15,
   "releaseDate": "2026-11-21",
-  "changelog": "إصلاح شامل للاستقرار (مراجعة 17 مرحلة): تصليح محرك الترجمة المحلي Marian اللي كان بايظ في كل النسخ السابقة، وتحسينات في الذاكرة والتقاط الشاشة ونظام التحديثات. أنماط ترجمة عربية: فصحى معاصرة أو عامية مصرية، مع قاموس ألعاب احترافي (فصائل وأسلحة ومصطلحات عسكرية) وإمكانية إضافة مصطلحاتك الخاصة. محرك فهم أعمق للإنجليزية: تعبيرات اصطلاحية وعامية وسياق الحوار، مع فحص جودة بعد الترجمة بدون أي تأخير إضافي.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.5.0/gamelingo-0.5.0.apk",
-  "sha256": "eaa0fd7f4a5dbcdf98878b59a23155574e417d8711e6281d2af0581cb1c8b31d",
+  "changelog": "إصلاح: زرار الإيقاف في الشريط العائم بقى بضغطة مطوّلة بدل اللمسة الواحدة، وصفحة التشخيص بتسجّل سبب آخر إيقاف.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.5.1/gamelingo-0.5.1.apk",
+  "sha256": "9b2c958647dd10140a65f1af2443149cd3ec3645378784a6ab39dada86ecdae1",
   "mandatoryUpdate": true,
-  "fileSizeBytes": 81489456
+  "fileSizeBytes": 81493304
 }
