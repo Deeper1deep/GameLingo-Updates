@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.4.1",
-  "latestVersionCode": 12,
+  "latestVersion": "0.4.2",
+  "latestVersionCode": 13,
   "minimumSupportedVersionCode": 12,
   "releaseDate": "2026-11-21",
-  "changelog": "إصلاح عطل كان بيقفل التطبيق لما تجرب الترجمة المحلية على بعض الموبايلات. دلوقتي لو المترجم المحلي فشل لأي سبب، التطبيق بيتحول تلقائيًا لمترجم بديل من غير ما يقفل، ولو حصلت مشكلة هيظهرلك سببها بالعربي.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.4.1/gamelingo-0.4.1.apk",
-  "sha256": "56638073a18a16dca905ff21270d1d4a14bd914cff90cd0973083ec00a4155f5",
-  "mandatoryUpdate": true,
-  "fileSizeBytes": 81173317
+  "changelog": "تصميم جديد كليًا للتطبيق: شاشات أحلى وأوضح، أيقونة جديدة، شريط تنقل سفلي، مركز تحديثات، وإحصائيات الجلسة لحظة بلحظة. الترجمة نفسها زي ما هي.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.4.2/gamelingo-0.4.2.apk",
+  "sha256": "f17433919c43581941327a23fe562d18e06789811612f0a2ec814c7df55c76d3",
+  "mandatoryUpdate": false,
+  "fileSizeBytes": 81436401
 }
