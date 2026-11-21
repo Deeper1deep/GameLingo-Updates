@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.5.2",
-  "latestVersionCode": 16,
-  "minimumSupportedVersionCode": 16,
+  "latestVersion": "0.5.3",
+  "latestVersionCode": 17,
+  "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-21",
-  "changelog": "إصلاح: لو النظام سحب إذن مشاركة الشاشة وانت بتلعب، هيوصلك إشعار وترجع الترجمة بضغطتين، وبانر استئناف في الصفحة الرئيسية.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.5.2/gamelingo-0.5.2.apk",
-  "sha256": "4572c26012ba1e97e31f1170d71a754b0d3e9c61a847a19d9ca204b81bea78bf",
-  "mandatoryUpdate": true,
-  "fileSizeBytes": 81496496
+  "changelog": "إصلاحات من مراجعة شاملة: تطبيق قاموس المستخدم في الترجمة، تحسين جودة الترجمة (الأسئلة والنفي)، تثبيت الالتقاط وإعادة بناء الشاشة، منع تكرار الأسطر الظاهرة، رسائل أخطاء واضحة مع زر تجاهل، وتحسينات في السجل والنماذج المحلية.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.5.3/gamelingo-0.5.3.apk",
+  "sha256": "afb44c11149b3fd7077f9c3ca8222f1c22cbf8d385d6df7456a89579c1b16c77",
+  "mandatoryUpdate": false,
+  "fileSizeBytes": 81498208
 }
