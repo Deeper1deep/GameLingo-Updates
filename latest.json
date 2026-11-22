@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.5.3",
-  "latestVersionCode": 17,
+  "latestVersion": "0.6.0",
+  "latestVersionCode": 18,
   "minimumSupportedVersionCode": 1,
-  "releaseDate": "2026-11-21",
-  "changelog": "إصلاحات من مراجعة شاملة: تطبيق قاموس المستخدم في الترجمة، تحسين جودة الترجمة (الأسئلة والنفي)، تثبيت الالتقاط وإعادة بناء الشاشة، منع تكرار الأسطر الظاهرة، رسائل أخطاء واضحة مع زر تجاهل، وتحسينات في السجل والنماذج المحلية.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.5.3/gamelingo-0.5.3.apk",
-  "sha256": "afb44c11149b3fd7077f9c3ca8222f1c22cbf8d385d6df7456a89579c1b16c77",
+  "releaseDate": "2026-11-22",
+  "changelog": "محرك ترجمة أذكى وأدق، إصلاح ثبات الترجمة (تختفي بمجرد اختفاء النص وتُترجم الجملة المتكررة)، تحسين استهلاك الذاكرة والاستقرار، حماية أقوى لمفتاح الـ API والنسخ الاحتياطي، تحقق إضافي قبل تثبيت التحديثات، زر أفضل الإعدادات مع 5 أوضاع، الاحتفاظ بألوان النص الأصلي، ومحرر لشكل الترجمة مع 7 أشكال جاهزة ومعاينة مباشرة.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.6.0/gamelingo-0.6.0.apk",
+  "sha256": "0d3222274feaea305df399039e096d6c6b810cfb402b32e0d25a64d1d52ca653",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 81498208
+  "fileSizeBytes": 81582284
 }
