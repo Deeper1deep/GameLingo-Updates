@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.8.2",
-  "latestVersionCode": 23,
+  "latestVersion": "0.8.3",
+  "latestVersionCode": 24,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-27",
-  "changelog": "المنطقة المخصصة لـ OCR تبقى في نفس المكان النسبي عند تدوير الشاشة (منطقة مرتبطة واحدة). خيار اختياري لمناطق مستقلة لكل اتجاه. لا رجوع للشاشة الكاملة. ترحيل آمن للإعدادات القديمة.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.2/gamelingo-0.8.2.apk",
-  "sha256": "7f4acdad31595545faed6d54c49228185cc97587b18dadcdcc4bdd22d3154bc9",
+  "changelog": "إصلاح جذري لمنطقة الترجمة المخصصة عند تدوير الشاشة: توحيد مصدر أبعاد الشاشة بين أداة التحديد والالتقاط، وربط المنطقة بإحداثيات الالتقاط الفعلية، ومعالجة تغيّر حجم المحتوى الملتقط، وترحيل الإعدادات القديمة مرة واحدة فقط. إضافة تشخيصات مفصلة للدوران.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.3/gamelingo-0.8.3.apk",
+  "sha256": "04fd67e8eb83009453e95630194f2d6a5f3be283cf3a42b7dc02b9b21c78a4de",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 81640424
+  "fileSizeBytes": 81640420
 }
