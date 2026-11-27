@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.8.1",
-  "latestVersionCode": 22,
+  "latestVersion": "0.8.2",
+  "latestVersionCode": 23,
   "minimumSupportedVersionCode": 1,
-  "releaseDate": "2026-11-26",
-  "changelog": "إصلاح سحب صندوق الترجمة: اسحبه بإصبعك لأي مكان ويبقى فيه ويُحفظ. الإيقاف صار بالضغط مع الثبات ثانيتين حتى لا يتعارض مع السحب. إضافة حد أقصى لعدد الأسطر.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.1/gamelingo-0.8.1.apk",
-  "sha256": "e325cb7b6f9acc19b79676f9b33074b471d15308740060993051f535efd52bff",
+  "releaseDate": "2026-11-27",
+  "changelog": "المنطقة المخصصة لـ OCR تبقى في نفس المكان النسبي عند تدوير الشاشة (منطقة مرتبطة واحدة). خيار اختياري لمناطق مستقلة لكل اتجاه. لا رجوع للشاشة الكاملة. ترحيل آمن للإعدادات القديمة.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.2/gamelingo-0.8.2.apk",
+  "sha256": "7f4acdad31595545faed6d54c49228185cc97587b18dadcdcc4bdd22d3154bc9",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 81619608
+  "fileSizeBytes": 81640424
 }
