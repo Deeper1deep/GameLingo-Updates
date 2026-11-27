@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.8.3",
-  "latestVersionCode": 24,
+  "latestVersion": "0.8.4",
+  "latestVersionCode": 25,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-27",
-  "changelog": "إصلاح جذري لمنطقة الترجمة المخصصة عند تدوير الشاشة: توحيد مصدر أبعاد الشاشة بين أداة التحديد والالتقاط، وربط المنطقة بإحداثيات الالتقاط الفعلية، ومعالجة تغيّر حجم المحتوى الملتقط، وترحيل الإعدادات القديمة مرة واحدة فقط. إضافة تشخيصات مفصلة للدوران.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.3/gamelingo-0.8.3.apk",
-  "sha256": "04fd67e8eb83009453e95630194f2d6a5f3be283cf3a42b7dc02b9b21c78a4de",
+  "changelog": "إصلاح جذري لمنطقة الترجمة المخصصة عند تدوير الشاشة: توحيد مصدر أبعاد الشاشة، تحويل صريح بين الشاشة والالتقاط، التعامل مع تغيير مقاس الالتقاط بدون إنشاء شاشة افتراضية جديدة، إيقاف القراءة بدل قراءة منطقة غلط، وزر جديد في التشخيص لمشاركة تقرير دوران الشاشة.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.4/gamelingo-0.8.4.apk",
+  "sha256": "b9ed411dbb41db4e63438a222f0c09d90d92949e10375d83a0739e341a0aa792",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 81640420
+  "fileSizeBytes": 81641916
 }
