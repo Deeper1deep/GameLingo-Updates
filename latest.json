@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.8.4",
-  "latestVersionCode": 25,
+  "latestVersion": "0.8.5",
+  "latestVersionCode": 26,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-27",
-  "changelog": "إصلاح جذري لمنطقة الترجمة المخصصة عند تدوير الشاشة: توحيد مصدر أبعاد الشاشة، تحويل صريح بين الشاشة والالتقاط، التعامل مع تغيير مقاس الالتقاط بدون إنشاء شاشة افتراضية جديدة، إيقاف القراءة بدل قراءة منطقة غلط، وزر جديد في التشخيص لمشاركة تقرير دوران الشاشة.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.4/gamelingo-0.8.4.apk",
-  "sha256": "b9ed411dbb41db4e63438a222f0c09d90d92949e10375d83a0739e341a0aa792",
+  "changelog": "إصلاح تأخر الترجمة بعد تدوير الشاشة: أي نتيجة قديمة بتتجاهل بدل ما تظهر في المكان الغلط. على أندرويد 14 وأحدث، التطبيق بيطلب تسجيل الشاشة كاملة، فشاشة الموافقة مش هتعرض اختيار تطبيق واحد. زر مشاركة تقرير دوران الشاشة في صفحة التشخيص. الحجم حوالي 78 ميجا، حمّله على الواي فاي.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.5/gamelingo-0.8.5.apk",
+  "sha256": "444096e100ac8f281ecd53269a7d23b55349010dd4684f327e689406b3f67aec",
   "mandatoryUpdate": false,
   "fileSizeBytes": 81641916
 }
