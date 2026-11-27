@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
   "appId": "com.gamelingo.mobile",
-  "latestVersion": "0.8.5",
-  "latestVersionCode": 26,
+  "latestVersion": "0.9.0",
+  "latestVersionCode": 27,
   "minimumSupportedVersionCode": 1,
   "releaseDate": "2026-11-27",
-  "changelog": "إصلاح تأخر الترجمة بعد تدوير الشاشة: أي نتيجة قديمة بتتجاهل بدل ما تظهر في المكان الغلط. على أندرويد 14 وأحدث، التطبيق بيطلب تسجيل الشاشة كاملة، فشاشة الموافقة مش هتعرض اختيار تطبيق واحد. زر مشاركة تقرير دوران الشاشة في صفحة التشخيص. الحجم حوالي 78 ميجا، حمّله على الواي فاي.",
-  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.8.5/gamelingo-0.8.5.apk",
-  "sha256": "444096e100ac8f281ecd53269a7d23b55349010dd4684f327e689406b3f67aec",
+  "changelog": "رجعت شاشة الموافقة العادية: تقدر تختار تطبيق واحد أو الشاشة كاملة. منطقة قراءة الكلام بتتحدد على الصورة اللي اتصوّرت. الترجمة بتتسحب بإيدك والدبل تاب يثبّتها ويفكّها، لكن مع اختيار تطبيق واحد مش بتتحرك لوحدها ورا الكلام الأصلي. وضع «الشاشة كاملة فقط» متاح. إضافات: ترجمة صوت اللعبة (اختيارية، تحميل النموذج بإذنك)، تعديل المصطلحات، سياق الحوار، وتحسينات في تسريع الترجمة. الجودة على موبايلك لسه محتاجة تجربة. الحجم حوالي 101 ميجا، حمّله على الواي فاي.",
+  "downloadUrl": "https://github.com/Deeper1deep/GameLingo-Updates/releases/download/v0.9.0/gamelingo-0.9.0.apk",
+  "sha256": "8487a77cb666946045dacbc500897421c9ffc98841bd4f62b56bfa22c55e12a5",
   "mandatoryUpdate": false,
-  "fileSizeBytes": 81641916
+  "fileSizeBytes": 101156712
 }
